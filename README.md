@@ -3,8 +3,6 @@
 
 Production-oriented Software Engineer specializing in designing and deploying end-to-end web architectures, high-performance cross-platform mobile apps, and resilient data access layers using **Next.js (App Router), TypeScript, and PostgreSQL**.
 
-[LinkedIn](https://linkedin.com/in/abdessalam-zenkoufi) &bull; [ribouta.com (Demo)](https://ribouta.com) &bull; [Download Resume (PDF)](./cv.pdf)
-
 ---
 
 ### Core Competencies
@@ -44,4 +42,3 @@ Production-oriented Software Engineer specializing in designing and deploying en
 - **Location:** Algeria (Open to Remote & Relocation)
 - **LinkedIn:** [linkedin.com/in/abdessalam-zenkoufi](https://linkedin.com/in/abdessalam-zenkoufi)
 - **Flagship Demo:** [ribouta.com (Demo)](https://ribouta.com)
-- **Resume (PDF):** [Download Abdessalam Zenkoufi CV](./cv.pdf)
