@@ -26,7 +26,7 @@ Production-oriented Software Engineer specializing in designing and deploying en
 ### Key Engineering & Systems Showcase
 
 #### 🚀 Production Platforms & Commercial Deployments
-* **[Ribouta Automotive Marketplace](https://ribouta.com) (Flagship Platform &bull; Live Demo):** End-to-end commercial transactional vehicle marketplace architected via **Next.js (App Router) Server Actions**, TypeScript, and **PostgreSQL / Supabase (RLS)**, featuring zero-trust data mutations, Magic Bytes buffer verification, and zero-dependency logical theming.
+* **Ribouta Automotive Marketplace (Flagship Platform) &mdash; [ribouta.com (Demo)](https://ribouta.com):** End-to-end commercial transactional vehicle marketplace architected via **Next.js (App Router) Server Actions**, TypeScript, and **PostgreSQL / Supabase (RLS)**, featuring zero-trust data mutations, Magic Bytes buffer verification, and zero-dependency logical theming.
 * **Albaraka Retail & Logistics Platform:** Commercial e-commerce and logistics order dispatch engine using **Native PHP, MySQL, and State Machines** with transactional inventory locking.
 * **Alwaai Media Platform:** High-throughput digital publishing engine built with a custom **Zero-Framework PHP MVC architecture**, MySQL FULLTEXT indexing, and a hardened production Linux VPS.
 
@@ -41,4 +41,4 @@ Production-oriented Software Engineer specializing in designing and deploying en
 
 - **Location:** Algeria (Open to Remote & Relocation)
 - **LinkedIn:** [linkedin.com/in/abdessalam-zenkoufi](https://linkedin.com/in/abdessalam-zenkoufi)
-- **Featured Platform Showcase:** [ribouta.com (Demo)](https://ribouta.com)
+- **Flagship Demo:** [ribouta.com (Demo)](https://ribouta.com)
