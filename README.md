@@ -41,4 +41,4 @@ Production-oriented Software Engineer specializing in designing and deploying en
 
 - **Location:** Algeria (Open to Remote & Relocation)
 - **LinkedIn:** [linkedin.com/in/abdessalam-zenkoufi](https://linkedin.com/in/abdessalam-zenkoufi)
-- **Flagship Demo:** [ribouta.com (Demo)](https://ribouta.com)
+- **Ribouta Automotive Marketplace Demo:** [ribouta.com (Demo)](https://ribouta.com)
